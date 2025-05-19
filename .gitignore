@@ -1,2 +1,5 @@
 # Documentation file
-Doc.md
+docs/
+
+# Data files
+*.jpg
